@@ -2,7 +2,7 @@
     "homepage": "http://fsprojects.github.io/Forge/",
     "version": "0.6.0",
     "url": "https://github.com/fsprojects/Forge/releases/download/0.6.0/forge.zip",
-    "hash": "md5:66316278C884B8C00D167DC78255528B",
+    "hash": "md5:b71adc9850e3d3ee13a9c2664e1eb36b",
     "bin": [
         "bin\\forge.exe"
     ]
